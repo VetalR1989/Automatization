@@ -1,7 +1,7 @@
-Локатор логотипа (html-елемент, содержащий в себе значок и слово "авиасейлс") - <span.s__Y3b19uh5xpA0E0Dgs9Uc>
+Локатор логотипа (html-елемент, содержащий в себе значок и слово "авиасейлс") - <span[data-test-id="logo"]> но он не уникальный
 Локатор поля Откуда - <input#avia_form_origin-input>
 Локатор поля Куда - <input#avia_form_destination-input>
 Локатор поля Когда - <button[data-test-id="start-date-field"]>
 Локатор поля Обратно - <button[data-test-id="end-date-field"]>
-Локатор чек-бокса "Открыть Ostrovok.ru в новой вкладке" - <span.s__hozqdl8_u1owv7f58Vov.s__HLWgkBC9TdsHSs4C7GgX.s__ELmBA_D9PIkOa0s2GKhD>
+Локатор чек-бокса "Открыть Ostrovok.ru в новой вкладке" - <label[data-test-id='checkbox']>
 Локатор кнопки Найти билеты - <button[data-test-id="form-submit"]>
